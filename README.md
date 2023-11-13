@@ -15,13 +15,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure Virtual Machines
 - osTicket
 - Remote Desktop
-- Internet Information Services (IIS)
-- Rewrite Module
-- PHP Manager for IIS
-- PHP 7.3.8
-- Microsoft Visual C++ Redistributable
-- MySQL 5.5.62
-- HeidiSQL
 
 <h2>Operating Systems Used </h2>
 
@@ -29,11 +22,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Internet Information Services (IIS)
+- Rewrite Module
+- PHP Manager for IIS
+- PHP 7.3.8
+- Microsoft Visual C++ Redistributable
+- MySQL 5.5.62
+- HeidiSQL
+- Link to prerequisites: https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 <h2>Installation Steps</h2>
 
