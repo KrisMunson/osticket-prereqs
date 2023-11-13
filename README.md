@@ -37,7 +37,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <h2>1. Create Resource Group and Virtual Machine in Azure.</h2>
+
+  1. Create a Resource Group in Azure. For this tutorial, I'll name this Resource Group "osTicket".
+  
+  2. Create a Virtual Machine in Azure. For this tutorial, I'll name this VM 
+
+  If you don't know how to set up a Resource Group or Virtual Machine in Azure, check out my Creating Resource Groups and Virtual Machines tutorial.
 </p>
 <br />
 
